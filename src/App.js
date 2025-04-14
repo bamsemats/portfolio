@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import codingWallpaper from "./coding-wallpaper.jpg";
 import "./App.css";
 import { useState, useEffect, useRef } from "react";
